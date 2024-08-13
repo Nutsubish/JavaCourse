@@ -1,3 +1,4 @@
+package Chapters;
 // Hypatinuoze Math
 
 import java.util.Scanner;

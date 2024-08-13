@@ -1,3 +1,4 @@
+package Chapters;
 import javax.swing.JOptionPane;
 
 public class GUI {
