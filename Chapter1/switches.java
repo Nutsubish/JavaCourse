@@ -1,4 +1,4 @@
-package Chapters;
+
 import java.util.Scanner;
 
 public class switches {

@@ -1,7 +1,7 @@
-package Chapters;
+
 import java.util.Scanner;
 
-public class Loops {
+public class whileloop {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
